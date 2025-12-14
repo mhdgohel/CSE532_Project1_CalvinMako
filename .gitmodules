@@ -1,3 +1,6 @@
 [submodule "CalvinMako"]
 	path = CalvinMako
 	url = https://github.com/dhruv-1100/mako-pr.git
+[submodule "enchanced_calvin"]
+	path = enchanced_calvin
+	url = https://github.com/mhdgohel/Calvin.git
